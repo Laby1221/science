@@ -150,8 +150,54 @@
             "answer": "He asked me to tell him my phone number so that he couid contact me the next day."
         },
         {
-            "explain": "2",
-            "answer": "He（ヘリウム）第一周期 18族元素 電子配置：2"
+            "explain": "彼は思っていることを言わなかった。",
+            "answer": "He didin't say what he was thinking."
+        },
+        {
+            "explain": "声が聞き取りにくいのでもう少し大きな声でお話ください。",
+            "answer": "I can't hear you very well. Please speak a little louder."
+        },
+        {
+            "explain": "私たちは夕飯を食べながら将来の計画について話し合った。",
+            "answer": "We talked about our future plans over dinner."
+        },
+        {
+            "explain": "彼女は私に自分の子どもたちのことについて、またどんなに自分がその子どもたちのことを愛しているのかについて語った。",
+            "answer": "She tould me about her children and how much she loved them."
+        },
+        {
+            "explain": "オーストラリアでは英語を話す。",
+            "answer": "They speak English in Australia."
+        },
+        {
+            "explain": "嘘をついてはいけません。本当のことを言いなさい。",
+            "answer": "Don't tell lies. Tell the truth."
+        },
+        {
+            "explain": "父とその件について話し合いたい。",
+            "answer": "I want to talk over the matter with my father."
+        },
+        {
+            "explain": "彼は教え子と結婚したと言われている。",
+            "answer": "People say that he go married to one of his former students."
+        },
+        {
+            "explain": "医者は私に酒とタバコをやめるように言った。",
+            "answer": "The doctor told me to stop drinking and smoking."
+        },
+        {
+            "explain": "私は、言われた通りにその宿題をした。",
+            "answer": "I did the asssignment just as I was told to."
+        }
+    ],
+    "tab-6": [
+        {
+            "explain": "彼は私に、「明日連絡できるように、電話番号を私に教えてもらえませんか。」と言った",
+            "answer": "He asked me to tell him my phone number so that he couid contact me the next day."
+        },
+        {
+            "explain": "",
+            "answer": ""
         }
     ]
 }
