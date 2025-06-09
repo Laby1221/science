@@ -263,5 +263,63 @@
             "explain": "",
             "answer": ""
         }
+    ],
+    "tab-7": [
+        {
+            "explain": "先生は彼に一生懸命勉強させた。",
+            "answer": "The teacher made him study hard."
+        },
+        {
+            "explain": "戻りましたら、彼に電話をかけなおさせましょうか。",
+            "answer": "Shall I have him call you back when he gets back?"
+        },
+        {
+            "explain": "彼女はヨーロッパを旅行したかったが、父親はどうしても行かせてくれなかった。",
+            "answer": "She wanted to go on a trip to Europe, but her father wouldn't let her."
+        },
+        {
+            "explain": "あちらに着いたらすぐに新しい住所を知らせてください。",
+            "answer": "Please let me know your new address as soon as you get there."
+        },
+        {
+            "explain": "彼らは先輩のユニフォームを洗わされた。",
+            "answer": "They were made to wash the older player's uniforms."
+        },
+        {
+            "explain": "彼女は歯を抜いてもらったので、とても痛がっていました。",
+            "answer": "She was in great pain because she had had a tooth pulled out."
+        },
+        {
+            "explain": "昨夜家に帰る途中、電車の中で眠っているうちに鞄を盗まれた。",
+            "answer": "On my way home last night I had my bag stolen while I was sleeping in the train."
+        },
+        {
+            "explain": "お戻りになるまでは、この仕事を終えておきます。",
+            "answer": "I'll get this work finished by the time you come back."
+        },
+        {
+            "explain": "ロンドン滞在中は英語でわかってもらうのに苦労した。",
+            "answer": "During my stay in London I had trouble making myself understood in English."
+        },
+        {
+            "explain": "どうして彼女がまだ20代だと思ったのですか。",
+            "answer": "What made you think that she was still in her twenties."
+        },
+        {
+            "explain": "長らくお待たせしてすみませんでした。",
+            "answer": "I'm sorry to have kept you waiting so long."
+        },
+        {
+            "explain": "仕事を中途半端にしておいてはいけない。",
+            "answer": "Don't leave your work half finished."
+        },
+        {
+            "explain": "外国語を勉強すると、他の国の人々の考え方を理解するのに役立つ。",
+            "answer": "Learning a foreign language helps you understand how people in other countries think."
+        },
+        {
+            "explain": "音楽は私たちの生活を楽しいものにするのに寄与してくれる。",
+            "answer": "Music helps make our lives enjoyable."
+        }
     ]
 }
