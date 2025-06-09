@@ -192,8 +192,72 @@
     ],
     "tab-6": [
         {
-            "explain": "彼は私に、「明日連絡できるように、電話番号を私に教えてもらえませんか。」と言った",
-            "answer": "He asked me to tell him my phone number so that he couid contact me the next day."
+            "explain": "窓の外を見たが、屋根以外何も見えなかった。",
+            "answer": "I looked out the window, but I could see nothing but roofs."
+        },
+        {
+            "explain": "耳をすませば、外で雨が降っているのが聞こえるよ。",
+            "answer": "If you listen carefully, you can hear the rain falling outside."
+        },
+        {
+            "explain": "彼女はそのフットボールの試合に興奮しているように見えた。",
+            "answer": "She looked excited by the footballl game."
+        },
+        {
+            "explain": "彼女は興奮した様子で部屋を見渡した。",
+            "answer": "She looked excitedly around the room."
+        },
+        {
+            "explain": "彼は教授のような風采だ。",
+            "answer": "He looks like a professor."
+        },
+        {
+            "explain": "彼はまるで幽霊を見たのかのような顔をしていた。",
+            "answer": "He looked as if he had seen a ghost."
+        },
+        {
+            "explain": "彼の提案はずいぶん奇妙に聞こえたので、みんなが大笑いした。",
+            "answer": "His suggestion sounded so strange that everyone laughed out loud."
+        },
+        {
+            "explain": "それはいい考えのようだ。",
+            "answer": "That sounds like a good idea."
+        },
+        {
+            "explain": "風邪をひいているような声だね。",
+            "answer": "You sound as if you have a cold."
+        },
+        {
+            "explain": "私は子どもたちと遊んでいると楽しい。",
+            "answer": "I feel happy when I play with children."
+        },
+        {
+            "explain": "ふと脚を虫がはっている感じがした。",
+            "answer": "I suddenly felt an insect crawling up my leg."
+        },
+        {
+            "explain": "君の手はとても冷たい感じがする。まるで氷のような感じだ。",
+            "answer": "Your hand feels very cold; it feels like ice."
+        },
+        {
+            "explain": "なぜ彼女がそんなにお金を使うのかわからない。",
+            "answer": "I cannot understand why she spends so much money."
+        },
+        {
+            "explain": "彼は、自分でも間違えたのはわかっていると言ったが、そのことを申し訳ないとは感じていないようだった。",
+            "answer": "He said he realized that he'd made a mistake, but he didn't seem to feel sorry for it."
+        },
+        {
+            "explain": "はじめ彼だとわからなかった。なぜって、20年以上も会っていなかったんだから。",
+            "answer": "I cannot understand why she spends so much money."
+        },
+        {
+            "explain": "そのコンピュータはとても高いことがわかった。",
+            "answer": "I found the computer was very expensive."
+        },
+        {
+            "explain": "いつの間にか彼女はそっと歌を口ずさんでいた。",
+            "answer": "She found herself singing softly."
         },
         {
             "explain": "",
