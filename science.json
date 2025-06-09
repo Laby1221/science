@@ -143,5 +143,15 @@
             "explain": "36",
             "answer": "Kr（クリプトン）第四周期 18族元素 電子配置：2, 8, 18, 8"
         }
+    ],
+    "tab-5": [
+        {
+            "explain": "彼は私に、「明日連絡できるように、電話番号を私に教えてもらえませんか。」と言った",
+            "answer": "He asked me to tell him my phone number so that he couid contact me the next day."
+        },
+        {
+            "explain": "2",
+            "answer": "He（ヘリウム）第一周期 18族元素 電子配置：2"
+        }
     ]
 }

@@ -40,6 +40,12 @@ document.addEventListener("DOMContentLoaded", function () {
             processTab("tab-2", "tab-2");
             processTab("tab-3", "tab-3");
             processTab("tab-4", "tab-4");
+            processTab("tab-5", "tab-5");
+            processTab("tab-6", "tab-6");
+            processTab("tab-7", "tab-7");
+            processTab("tab-8", "tab-8");
+            processTab("tab-9", "tab-9");
+            processTab("tab-10", "tab-10");
         })
         .catch(error => console.error('Error loading JSON:', error));
 });
