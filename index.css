@@ -32,7 +32,7 @@ body {
     height: 24px;
     text-align: center;
     line-height: 22px;
-    box-shadow: 4px 4px 4px #9c9c9c4f;
+    box-shadow: 4px 4px 4px #d8d8d84f;
     cursor: pointer;
 }
 .is-tab-btn-active{
