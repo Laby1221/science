@@ -321,5 +321,48 @@
             "explain": "音楽は私たちの生活を楽しいものにするのに寄与してくれる。",
             "answer": "Music helps make our lives enjoyable."
         }
+    ],
+    "tab-8": [
+        {
+            "explain": "初めて鯨を見たとき、最初それが何だかわかりませんでした。",
+            "answer": ["When I saw a whale for the first time, I couldn't tell what it was at first.",
+            "The first time I saw a whale, at first I couldn't tell what it was."]
+        },
+        {
+            "explain": "ここに来たのは今回が初めてですか？",
+            "answer": "Is ths the first time you've been here."
+        },
+        {
+            "explain": "彼が私のもとを去ってはじめて、自分がいかに深く彼のことを愛しているのかに気づいた。",
+            "answer": "I didn't realize how deeply I loved him until he left me."
+        },
+        {
+            "explain": "六時まで待っていてください。それまでには戻りますから。",
+            "answer": ""
+        },
+        {
+            "explain": "2、3カ月で外国語をものにするなんて、不可能です。",
+            "answer": ""
+        },
+        {
+            "explain": "息子が大学に入学してから一か月程後に、彼から私に電話があり、一週間後に帰郷するということを伝えてきた。",
+            "answer": ""
+        },
+        {
+            "explain": "近頃はこれまで以上に暮らしにくくなっている。",
+            "answer": ""
+        },
+        {
+            "explain": "このところ仕事が忙しくて十分な睡眠がとれていないんです。",
+            "answer": ""
+        },
+        {
+            "explain": "一度約束したら、たとえ守るのが難しいとわかっていても、破るべきではない。",
+            "answer": ""
+        },
+        {
+            "explain": "先日、小学校のときに住んでいた街のことを考えながら、何時間も過ごしてしまった。",
+            "answer": ""
+        }
     ]
 }
